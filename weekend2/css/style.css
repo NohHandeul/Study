@@ -1,0 +1,46 @@
+*{
+    font-size:25px
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+
+
+td.myTd{
+    background-color: rgb(19, 85, 19);
+}
+
+.myTd.myClass{
+    font-size: 10px;
+}
+
+#myId{
+    /* background-color: yellow; */
+}
+
+td[mydata*="abdcd"]{
+    background-color: bisque;
+}
+
+/*css 선택자 */
+/*
+https://developer.mozilla.org/ko/docs/Web/CSS/Attribute_selectors
+태그로 접근하기
+class로 접근하기
+id로접근하기
+부모자식관계를 통해서 접근하기
+.
+.
+.
+.
+
+*/

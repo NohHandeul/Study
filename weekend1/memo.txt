@@ -1,0 +1,54 @@
+
+<!-- 자주쓰는 태그-->
+<a></a>
+<audio></audio>
+<b></b>
+<body></body>
+<br>
+<button></button>
+<canvas></canvas>
+<div></div> *
+<h1></h1>~<h6></h6>
+<header></header>
+<footer></footer>
+<section></section>
+<form></form> *
+<i></i>
+<iframe></iframe>
+<img>
+<input> *
+<label> *
+<li></li> *
+<ol></ol> *
+<ul> *</ul>
+<link>
+<meta>
+<nav></nav> *
+<select></select> *
+<option></option> *
+<span></span>
+<strong></strong>
+<style></style>
+<svg></svg>
+<textarea></textarea>
+<time></time>
+<title></title>
+<video></video>
+<u></u>
+
+<!-- 테이블 관련 태그 -->
+<table></table>
+<col>
+<td></td>
+<colgroup></colgroup>
+<tbody></tbody>
+<th></th>
+<thead></thead>
+<tr></tr>
+
+
+
+과제, 
+html 태그 눌러보고 실행하기 w3school
+깃허브 계정만들기
+git 설치 하기
